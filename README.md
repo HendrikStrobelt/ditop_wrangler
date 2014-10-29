@@ -1,5 +1,7 @@
 DiTop -- Standalone Mallett Topic extraction 
 ==============
+##### for more information on the DiTop project visit: [ditop.hs8.de](http://ditop.hs8.de)
+
 
 This product can be used to create a topic model file from three text collections.
 See more here: [ditop.hs8.de](http://ditop.hs8.de)
