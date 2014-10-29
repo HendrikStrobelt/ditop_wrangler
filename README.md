@@ -18,3 +18,5 @@ Related projects are:
 
 
 The mallett library is required: McCallum, Andrew Kachites.  "MALLET: A Machine Learning for Language Toolkit.", http://mallet.cs.umass.edu. 2002.
+
+The software is licensed under the new BSD.
