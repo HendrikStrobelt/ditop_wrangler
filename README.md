@@ -4,7 +4,6 @@ DiTop -- Standalone Mallett Topic extraction
 
 
 This product can be used to create a topic model file from three text collections.
-See more here: [ditop.hs8.de](http://ditop.hs8.de)
 
 To run it, you need [maven](http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html):
 ```
