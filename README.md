@@ -17,3 +17,4 @@ Related projects are:
 - [ditop_client](https://github.com/HendrikStrobelt/ditop_client)
 
 
+The mallett library is required: McCallum, Andrew Kachites.  "MALLET: A Machine Learning for Language Toolkit.", http://mallet.cs.umass.edu. 2002.
